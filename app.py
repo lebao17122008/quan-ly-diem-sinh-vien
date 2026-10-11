@@ -159,5 +159,5 @@ plt.close(fig)
 st.divider()
 
 st.caption(
-    f"Người thực hiện: {Le_Duy_Bao} | MSSV: {052208007506}"
+    f("Người thực hiện: Lê Duy Bảo | MSSV: 052208007506")
 )
